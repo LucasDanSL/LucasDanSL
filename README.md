@@ -1,16 +1,22 @@
-## Hi there 👋
+<table>
+<tr>
+<td width="200px">
 
-<!--
-**LucasDanSL/LucasDanSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="200px" style="border-radius: 50%;" />
 
-Here are some ideas to get you started:
+</td>
+<td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Olá! Eu sou Lucas Daniel 👋
+
+🎓 Graduando em **Ciência da Computação**  
+🛠 Técnico em **Redes de Computadores**  
+📚 Tutor na **CESAR School**  
+💡 Apaixonado por tecnologia e inovação  
+
+📫 Contato: **seuemail@aqui.com**  
+😄 Pronomes: ele/dele  
+
+</td>
+</tr>
+</table>
