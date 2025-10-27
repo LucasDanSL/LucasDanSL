@@ -4,7 +4,9 @@
 🛠️ **Técnico em Redes de Computadores**  
 📚 **Tutor no CESAR School**  
 
-Sou apaixonado por tecnologia e por aprender continuamente. Atuo com redes, suporte técnico e desenvolvimento de software, buscando sempre transformar desafios em soluções inteligentes. Além disso, como tutor, contribuo com o crescimento de novos talentos na área de tecnologia.
+🎓 Atualmente cursando Ciência da Computação e formado como Técnico em Redes de Computadores, atuo como tutor no Projeto Florescendo Talentos e estagiário na Cesar School, onde ensino desenvolvimento web para estudantes do ensino médio, utilizando as principais linguagens de programação.
+
+💻 Tenho experiência com programação, bancos de dados e desenvolvimento web, destacando minha capacidade de aprendizado rápido e resolução de problemas.
 
 ## 🔍 Interesses atuais
 - Programação e Estruturas de Dados  
